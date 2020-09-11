@@ -1,4 +1,4 @@
-print('Cofre v.1')
+print('BruteForceAlg v3.0')
 
 senha = input('Insira sua senha: ')
 
