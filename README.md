@@ -1,3 +1,5 @@
+!BruteForce-Basics.png
+
 # BruteForce-Basics
 
   Algorítmo simples para testagem de combinações alfanúmericas
