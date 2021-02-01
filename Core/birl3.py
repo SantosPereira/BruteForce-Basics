@@ -18,7 +18,7 @@ r = '0'
 """	Loop de testagem	"""
 while r != senha:
 	x= -1
-	for i in range(0,35): #35 é o número de caracteres para a combinação (alfabeto + 0_9 - 1)
+	for i in range(0,35): #35 é o número de caracteres para a combinação (alfabeto + 0_9 - 1) 
 		if r == senha:
 			break
 		x+=1
