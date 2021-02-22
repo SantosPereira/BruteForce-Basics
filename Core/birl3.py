@@ -22,17 +22,17 @@ while r != senha:
 		if r == senha:
 			break
 		x+=1
-		y= 0
+		y= -1
 		for i in range (0,35):
 			if r == senha:
 				break
 			y+=1
-			z = 0
+			z = -1
 			for i in range (0,35):
 				if r == senha:
 					break
 				z+=1
-				a = 0
+				a = -1
 				for i in range (0,35):
 					a+=1
 					b = 0
